@@ -6,5 +6,5 @@ console.log("Elements Of Array is : ");
 
 for(var iCnt:number = 0; iCnt <= Arr.length; iCnt++)
 {
-    console.log(Arr[iCnt]);
+    console.log("Arr[iCnt]");
 }
